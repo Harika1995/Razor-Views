@@ -8,3 +8,5 @@ Team Members
 3. Sonam Gadekari - Conclusion of Razor Views.
 
 Team Slide:
+![](https://raw.githubusercontent.com/SaiTejaswiniNarne/Razor-Views/master/slide.PNG)
+
